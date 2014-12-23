@@ -25,7 +25,7 @@ episodes:
 
 
 map:
-    size: 2000
+    size: 1500
     circular: false
     wall:
         height: 128
@@ -52,13 +52,13 @@ daylightCycle:
 
 
 scoreboard:
-    title: Kill the Patrick
+    title: UHC
     
     # Scoreboard displayed on the left of the screen
     enabled: true
     episode: true
     players: true
-    teams: true
+    teams: false
     timer: true
     freezeStatus: true
     
